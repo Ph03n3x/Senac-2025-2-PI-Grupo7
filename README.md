@@ -23,6 +23,7 @@ A página de Login foi projetada para oferecer uma experiência simples, intuiti
 >>>>>>> 1c45db45de2e05275fa08b6c63a843b7de06c818
 ---
 [`/prototipo`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/prototipo)
+
 [`prototipo no figma`](https://www.figma.com/site/QJgV6q1B0VmjYSfjDVOcoe/PTI-2-SEM?node-id=0-1&t=PWeaaFyUCrs3NSNK-1)
 
 ## 📥 Instalação
