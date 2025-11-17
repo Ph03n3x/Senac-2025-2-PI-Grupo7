@@ -15,16 +15,13 @@ O Projeto Integrador Senac 2025 é uma solução desenvolvida em equipe para sim
 [`/diagramas`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/diagramas)
 
 ## 📸 Demonstração
-<<<<<<< HEAD
-A página de Login foi projetada para oferecer uma experiência simples, intuitiva e segura ao usuário. Ela funciona como a porta de entrada do sistema, garantindo que apenas usuários autorizados acessem as funcionalidades de consulta e gerenciamento de notas.
-![Login](./prototipo/Desktop.png)
-=======
+Seguem links para a vizualização dos protótipos:
 
->>>>>>> 1c45db45de2e05275fa08b6c63a843b7de06c818
+
 ---
 [`/prototipo`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/prototipo)
 [`prototipo no figma`](https://www.figma.com/site/QJgV6q1B0VmjYSfjDVOcoe/PTI-2-SEM?node-id=0-1&t=PWeaaFyUCrs3NSNK-1)
-
+=======
 ## 📥 Instalação
 
 Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
@@ -41,8 +38,5 @@ Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
 ## ▶️ Como Usar
 
 Depois de executar o script, você pode utilizar alguns comandos básicos no SQL Server:
+
 [`/modelo_dados`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/modelo_dados)
-### ➕ Inserir uma nova nota
-```sql
-INSERT INTO Notas (AlunoID, Disciplina, Nota)
-VALUES (1, 'Matemática', 8.5);
