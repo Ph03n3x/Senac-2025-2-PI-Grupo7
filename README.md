@@ -3,7 +3,8 @@
 # 📘 Projeto Integrador Senac 2025
 
 Este é um projeto desenhado e executado a várias mãos.  
-Seu objetivo é criar um **banco de dados** e também um **protótipo de site**, capaz de realizar operações de:
+
+O Projeto Integrador Senac 2025 é uma solução desenvolvida em equipe para simular o funcionamento de um sistema acadêmico real. O objetivo principal é construir um banco de dados completo e um protótipo funcional de site, permitindo a gestão de estudantes, disciplinas e notas de forma simples. Seu objetivo é criar um **banco de dados** e também um **protótipo de site**, capaz de realizar operações de:
 
 - Inserção de notas de alunos
 - Exclusão de registros
@@ -13,8 +14,8 @@ Seu objetivo é criar um **banco de dados** e também um **protótipo de site**,
 ---
 
 ## 📸 Demonstração
-
-
+A página de Login foi projetada para oferecer uma experiência simples, intuitiva e segura ao usuário. Ela funciona como a porta de entrada do sistema, garantindo que apenas usuários autorizados acessem as funcionalidades de consulta e gerenciamento de notas.
+![Login](./prototipo/Desktop.png)
 ---
 
 ## 📥 Instalação
