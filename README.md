@@ -17,6 +17,7 @@ Seu objetivo é criar um **banco de dados** e também um **protótipo de site**,
 
 ---
 [`/prototipo`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/prototipo)
+[`prototipo no figma`](https://www.figma.com/site/QJgV6q1B0VmjYSfjDVOcoe/PTI-2-SEM?node-id=0-1&t=PWeaaFyUCrs3NSNK-1)
 
 ## 📥 Instalação
 
