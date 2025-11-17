@@ -33,7 +33,7 @@ Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
 ## ▶️ Como Usar
 
 Depois de executar o script, você pode utilizar alguns comandos básicos no SQL Server:
-
+[`/modelo_dados`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/modelo_dados)
 ### ➕ Inserir uma nova nota
 ```sql
 INSERT INTO Notas (AlunoID, Disciplina, Nota)
