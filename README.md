@@ -11,11 +11,12 @@ Seu objetivo é criar um **banco de dados** e também um **protótipo de site**,
 - Organização de dados escolares de uma instituição fictícia
 
 ---
+[`/diagramas`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/diagramas)
 
 ## 📸 Demonstração
 
-
 ---
+[`/prototipo`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/prototipo)
 
 ## 📥 Instalação
 
