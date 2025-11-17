@@ -25,9 +25,11 @@ Seguem links para a vizualização dos protótipos:
 =======
 ## 📥 Instalação
 
+[`/modelo_dados`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/modelo_dados)
+
 Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
 
-1. Baixe o arquivo `.sql` do repositório.
+1. Baixe o arquivo [`create_tables.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/create_tables.sql) do repositório.
 2. Abra o **SQL Server Management Studio (SSMS)**.
 3. Conecte-se à sua instância do SQL Server.
 4. Vá em **File > Open > File…** e selecione o arquivo do banco de dados.
@@ -38,6 +40,6 @@ Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
 
 ## ▶️ Como Usar
 
-Depois de executar o script, você pode utilizar alguns comandos básicos no SQL Server:
+Depois de executar o script, você pode inserir dados no bando utilizando os comandos no arquivo [`crud.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/crud.sql)
+teste os dados cadastrados com algumas queries no arquino [`queries.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/queries.sql)
 
-[`/modelo_dados`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/modelo_dados)
