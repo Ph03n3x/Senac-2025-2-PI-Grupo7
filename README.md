@@ -41,5 +41,6 @@ Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
 ## ▶️ Como Usar
 
 Depois de executar o script, você pode inserir dados no bando utilizando os comandos no arquivo [`crud.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/crud.sql)
+
 teste os dados cadastrados com algumas queries no arquino [`queries.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/queries.sql)
 
