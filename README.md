@@ -1,31 +1,36 @@
 # Senac 2025 2 PI Grupo7
 
-# 📘 Projeto Integrador Senac 2025
+#  Projeto Integrador Senac 2025
 
-Este é um projeto desenhado e executado a várias mãos.  
 
-O Projeto Integrador Senac 2025 é uma solução desenvolvida em equipe para simular o funcionamento de um sistema acadêmico real. O objetivo principal é construir um banco de dados completo e um protótipo funcional de site, permitindo a gestão de estudantes, disciplinas e notas de forma simples. Seu objetivo é criar um **banco de dados** e também um **protótipo de site**, capaz de realizar operações de:
 
+O Projeto Integrador Senac 2025 é uma solução desenvolvida em equipe para simular o funcionamento de um sistema acadêmico real. O objetivo principal é construir um banco de dados completo e um protótipo funcional de site, permitindo a gestão de estudantes, disciplinas e notas de forma simples.
+
+##  Funcionalidades
 - Inserção de notas de alunos
 - Exclusão de registros
 - Visualização de notas
 - Organização de dados escolares de uma instituição fictícia
 
 ---
-[`/diagramas`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/diagramas)
+Para melhor melhor entendimento do mapa do projeto utilize as imagens na pasta:
 
-## 📸 Demonstração
-Seguem links para a vizualização dos protótipos:
+📁[`/diagramas`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/diagramas)
+
+##  Demonstração
+Abaixo estão os links para visualização dos protótipos do sistema:
+
+ 📁[`/prototipo`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/prototipo)
+
+ [`Prototipo no Figma`](https://www.figma.com/site/QJgV6q1B0VmjYSfjDVOcoe/PTI-2-SEM?node-id=0-1&t=PWeaaFyUCrs3NSNK-1)
 
 
----
-[`/prototipo`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/prototipo)
 
-[`prototipo no figma`](https://www.figma.com/site/QJgV6q1B0VmjYSfjDVOcoe/PTI-2-SEM?node-id=0-1&t=PWeaaFyUCrs3NSNK-1)
-=======
-## 📥 Instalação
+## Instalação
 
-[`/modelo_dados`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/modelo_dados)
+Baixe a estrutura de dados na pasta:
+
+📁[`/modelo_dados`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/tree/main/modelo_dados)
 
 Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
 
@@ -38,9 +43,37 @@ Siga os passos abaixo para instalar e rodar o banco de dados no **SQL Server**:
 
 ---
 
-## ▶️ Como Usar
+## Como Usar
 
 Depois de executar o script, você pode inserir dados no bando utilizando os comandos no arquivo [`crud.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/crud.sql)
 
-teste os dados cadastrados com algumas queries no arquino [`queries.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/queries.sql)
+Teste os dados cadastrados com algumas queries no arquivo [`queries.sql`](https://github.com/Ph03n3x/Senac-2025-2-PI-Grupo7/blob/main/modelo_dados/queries.sql)
+
+
+##  Autores
+
+Este é um projeto desenhado e executado a várias mãos :
+
+ DIOGO AMERICO GOMES DIOGENES
+
+ GUILHERME DE SOUZA MEDEIROS
+ 
+ VINICIUS EVANGELISTA DE SOUZA
+ 
+ GABRIEL FERREIRA MACHADO
+ 
+ JOAO GABRIEL LOPES TRINDADE
+ 
+ ALINE PEREIRA BARBOSA
+ 
+ HIAGO PROTASIO DOS PASSOS SALES
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
 
